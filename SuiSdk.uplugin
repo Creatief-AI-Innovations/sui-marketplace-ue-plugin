@@ -1,0 +1,23 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "Sui SDK",
+    "Description": "Unreal Engine plugin for Sui SDK",
+    "Category": "SDK",
+    "CreatedBy": "interverse",
+    "CreatedByURL": "https://interverse.ai",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+    "Modules": [
+        {
+            "Name": "SuiSdk",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
